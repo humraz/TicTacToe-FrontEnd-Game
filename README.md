@@ -15,4 +15,9 @@
 ![image](https://github.com/humraz/TicTacToe-FrontEnd-Game/assets/13130006/6cbf17ae-d6b3-421e-ab41-ec43043663cd)
 
 
+### Draw
+
+![image](https://github.com/humraz/TicTacToe-FrontEnd-Game/assets/13130006/4ab43c60-37d0-4601-882c-1991a7d70c2c)
+
+
 
